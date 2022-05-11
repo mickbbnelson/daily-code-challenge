@@ -1,10 +1,12 @@
 // Create a function that converts kilometers into miles
 
-function lengthConverter(kilos){
-    const miles = kilos * .62137229;
-    return `${miles} miles`
-}
 
-const testCase = lengthConverter(5)
+// Answer:
+// function lengthConverter(kilos){
+//     const miles = kilos * .62137229;
+//     return `${miles} miles`
+// }
 
-console.log(testCase)
+// const testCase = lengthConverter(5)
+
+// console.log(testCase)

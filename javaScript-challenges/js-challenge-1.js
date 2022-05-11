@@ -5,11 +5,13 @@
 // creative and see how you could output them in a way that would work up to 
 // 10 or even up to 10,000 with little extra effort.
 
-const testArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// Answer:
+// const testArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 
-const printEvens = testArray.filter((num) => num % 2 === 0)
+// const printEvens = testArray.filter((num) => num % 2 === 0)
 
-console.log(printEvens)
+// console.log(printEvens)
 
 
