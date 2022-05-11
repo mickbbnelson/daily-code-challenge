@@ -1,11 +1,12 @@
 // write a function that generates a random number
 
-function randomNumber(high){
-    // return Math.floor(Math.random() * high)
-   return Math.floor(Math.random() * high)
-}
+// Answer:
+// function randomNumber(high){
+//     // return Math.floor(Math.random() * high)
+//    return Math.floor(Math.random() * high)
+// }
 
-console.log(randomNumber(3))
+// console.log(randomNumber(3))
 
 
 
